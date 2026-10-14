@@ -109,3 +109,12 @@ Both real objects were found (2/2), with no false negatives and no false positiv
 - Small validation set (15 objects, 3 Cubes), so per-class scores are noisy.
 - Wheel odometry drifts (wheel slip); rotating on the spot keeps the drift small here.
 - Objects cut off by the image edge or heavily occluded are detected less reliably.
+
+<img width="1820" height="780" alt="0019_a7d7f698-run5_rgb_000060" src="https://github.com/user-attachments/assets/14441ef0-fb26-404e-9f1c-2c4f73713412" />
+
+<img width="1820" height="780" alt="0001_07009f7c-run5_rgb_000020" src="https://github.com/user-attachments/assets/0f8388a8-0b59-47f1-beab-97dcb36a2584" />
+
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/6777605c-c5e0-446e-8340-a18a151281f8" />
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/1c0968f0-9850-4d96-9c76-6b3e3f0cb44c" />
+
+
