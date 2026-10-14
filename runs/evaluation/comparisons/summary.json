@@ -1,0 +1,163 @@
+[
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/07009f7c-run5_rgb_000020.png",
+    "comparison": "0001_07009f7c-run5_rgb_000020.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/09434a77-run5_rgb_000380.png",
+    "comparison": "0002_09434a77-run5_rgb_000380.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/10867793-run5_rgb_000140.png",
+    "comparison": "0003_10867793-run5_rgb_000140.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/416f7062-run5_rgb_000260.png",
+    "comparison": "0004_416f7062-run5_rgb_000260.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/4794d88e-run5_rgb_000040.png",
+    "comparison": "0005_4794d88e-run5_rgb_000040.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 1
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/4eb0363f-run5_rgb_000180.png",
+    "comparison": "0006_4eb0363f-run5_rgb_000180.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/5297b6c5-run5_rgb_000300.png",
+    "comparison": "0007_5297b6c5-run5_rgb_000300.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/596b80bb-run5_rgb_000160.png",
+    "comparison": "0008_596b80bb-run5_rgb_000160.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/5b051486-run5_rgb_000000.png",
+    "comparison": "0009_5b051486-run5_rgb_000000.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/5b8016a2-run5_rgb_000400.png",
+    "comparison": "0010_5b8016a2-run5_rgb_000400.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/5ead9dfe-run5_rgb_000120.png",
+    "comparison": "0011_5ead9dfe-run5_rgb_000120.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/7a9e529d-run5_rgb_000200.png",
+    "comparison": "0012_7a9e529d-run5_rgb_000200.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/80043ebf-run5_rgb_000280.png",
+    "comparison": "0013_80043ebf-run5_rgb_000280.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/856ac10e-run5_rgb_000440.png",
+    "comparison": "0014_856ac10e-run5_rgb_000440.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/902c31c4-run5_rgb_000100.png",
+    "comparison": "0015_902c31c4-run5_rgb_000100.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/902e319b-run5_rgb_000220.png",
+    "comparison": "0016_902e319b-run5_rgb_000220.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/909511be-run5_rgb_000320.png",
+    "comparison": "0017_909511be-run5_rgb_000320.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 1
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/9779c7e9-run5_rgb_000360.png",
+    "comparison": "0018_9779c7e9-run5_rgb_000360.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/a7d7f698-run5_rgb_000060.png",
+    "comparison": "0019_a7d7f698-run5_rgb_000060.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 2
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/af007a54-run5_rgb_000340.png",
+    "comparison": "0020_af007a54-run5_rgb_000340.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/bf5a1f6b-run5_rgb_000240.png",
+    "comparison": "0021_bf5a1f6b-run5_rgb_000240.png",
+    "correct": 0,
+    "false_positives": 0,
+    "missed": 0
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/cd2c38fe-run5_rgb_000080.png",
+    "comparison": "0022_cd2c38fe-run5_rgb_000080.png",
+    "correct": 0,
+    "false_positives": 1,
+    "missed": 1
+  },
+  {
+    "image": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset/images/val/dd69cddb-run5_rgb_000420.png",
+    "comparison": "0023_dd69cddb-run5_rgb_000420.png",
+    "correct": 1,
+    "false_positives": 0,
+    "missed": 0
+  }
+]

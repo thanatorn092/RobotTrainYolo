@@ -1,0 +1,9 @@
+{
+  "path": "/Users/j3tk/Desktop/ROBO/Lab04_Material/Lab04/dataset",
+  "train": "images/train",
+  "val": "images/val",
+  "names": [
+    "Cube",
+    "Tree"
+  ]
+}

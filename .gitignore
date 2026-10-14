@@ -1,0 +1,16 @@
+cat > .gitignore << 'EOF'
+yolo/
+ls/
+__pycache__/
+.DS_Store
+captures/
+images_all/
+export/
+output/frame_*.png
+output/rgb_*.png
+*.cache
+runs/*/weights/last.pt
+dataset_provided/
+fallback_weights/
+yolo11n.pt
+EOF
